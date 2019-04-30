@@ -84,3 +84,19 @@ Below you can find a chart demonstrating the path you may take and the libraries
     - [serde](https://crates.io/crates/serde)
     - [r2d2](https://crates.io/crates/r2d2)
     - [lettre](https://crates.io/crates/lettre)
+
+## Wrap Up
+
+If you think the roadmap can be improved, please do open a PR with any updates and submit any issues.
+
+## Contribution
+
+The roadmap is built using [Draw.io](https://www.draw.io/). Project file can be found at `rust-web-developer-roadmap.xml` file. To modify it, open draw.io, click **Open Existing Diagram** and choose `xml` file with project. It will open the roadmap for you. Update it, upload and update the images in readme and create a PR (export as png with 50px border width and minify that with [Compressor.io](https://compressor.io/compress)).
+
+- Open a pull request with improvements
+- Discuss ideas in issues
+- Spread the word
+
+## License
+
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
