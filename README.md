@@ -64,23 +64,23 @@ Below you can find a chart demonstrating the path you may take and the libraries
    - [juniper](https://crates.io/crates/juniper)
 
 10. HTTP Clients
-   - [reqwest](https://crates.io/crates/reqwest)
-   - [curl](https://crates.io/crates/curl)
+    - [reqwest](https://crates.io/crates/reqwest)
+    - [curl](https://crates.io/crates/curl)
 
 11. Testing
-   - *[Inbuilt](https://doc.rust-lang.org/book/ch11-00-testing.html)*
+    - *[Inbuilt](https://doc.rust-lang.org/book/ch11-00-testing.html)*
 
 12. Task Scheduling
-   - [clokwerk](https://crates.io/crates/clokwerk)
+    - [clokwerk](https://crates.io/crates/clokwerk)
 
 13. Frontend Development
-   - [yew](https://crates.io/crates/yew)
-   - [wasm-bindgen](https://crates.io/crates/wasm-bindgen)
-   - [js-sys](https://crates.io/crates/js-sys)
-   - [web-sys](https://crates.io/crates/web-sys)
+    - [yew](https://crates.io/crates/yew)
+    - [wasm-bindgen](https://crates.io/crates/wasm-bindgen)
+    - [js-sys](https://crates.io/crates/js-sys)
+    - [web-sys](https://crates.io/crates/web-sys)
 
 14. Good to know crates
-   - [validator](https://crates.io/crates/validator)
-   - [serde](https://crates.io/crates/serde)
-   - [r2d2](https://crates.io/crates/r2d2)
-   - [lettre](https://crates.io/crates/lettre)
+    - [validator](https://crates.io/crates/validator)
+    - [serde](https://crates.io/crates/serde)
+    - [r2d2](https://crates.io/crates/r2d2)
+    - [lettre](https://crates.io/crates/lettre)
