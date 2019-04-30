@@ -1,4 +1,6 @@
-# Rust Web Developer Roadmap 2019
+# Rust Web Developer Roadmap
+
+> Roadmap to becoming a [Rust](https://www.rust-lang.org/) web developer in 2019:
 
 Below you can find a chart demonstrating the path you may take and the libraries you may require to become a Rust Web Developer. This chart is made with inspiration from [Golang Developer Roadmap](https://github.com/Alikhll/golang-developer-roadmap/).
 
