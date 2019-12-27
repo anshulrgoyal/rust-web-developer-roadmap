@@ -20,6 +20,7 @@ Below you can find a chart demonstrating the path you may take and the libraries
    - [The Book](https://doc.rust-lang.org/book/)
    - [Rustlings Course](https://github.com/rust-lang/rustlings/)
    - [Rust by Example](https://doc.rust-lang.org/stable/rust-by-example/)
+   - [Async Programming](https://rust-lang.github.io/async-book/)
    - [Rustup](https://www.rust-lang.org/tools/install)
    - [Cargo Book](https://doc.rust-lang.org/cargo/index.html)
    - [Crates.io](https://crates.io/)
