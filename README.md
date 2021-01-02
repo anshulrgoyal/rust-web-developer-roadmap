@@ -1,6 +1,6 @@
 # Rust Web Developer Roadmap
 
-> Roadmap to becoming a [Rust](https://www.rust-lang.org/) web developer in 2020:
+> Roadmap to becoming a [Rust](https://www.rust-lang.org/) web developer in 2021:
 
 Below you can find a chart demonstrating the path you may take and the libraries you may require to become a Rust Web Developer. This chart is made with inspiration from [Golang Developer Roadmap](https://github.com/Alikhll/golang-developer-roadmap/).
 
@@ -29,6 +29,7 @@ Below you can find a chart demonstrating the path you may take and the libraries
 
    - [clap](https://crates.io/crates/clap)
    - [structopt](https://crates.io/crates/structopt)
+   - [argh](https://crates.io/crates/argh)
 
 3. Web Frameworks
 
@@ -36,7 +37,6 @@ Below you can find a chart demonstrating the path you may take and the libraries
    - [gotham](https://crates.io/crates/gotham)
    - [nickel](https://crates.io/crates/nickel)
    - [rocket](https://crates.io/crates/rocket)
-   - [rouille](https://crates.io/crates/rouille)
    - [tide](https://crates.io/crates/tide)
    - [tower-web](https://crates.io/crates/tower-web)
    - [warp](https://crates.io/crates/warp)
@@ -65,8 +65,7 @@ Below you can find a chart demonstrating the path you may take and the libraries
 
    - [grpc](https://crates.io/crates/grpc)
    - [grpcio](https://crates.io/crates/grpcio)
-   - [tower_grpc](https://github.com/tower-rs/tower-grpc)
-   - [tonic](https://github.com/hyperium/tonic)
+   - [tonic](https://crates.io/crates/tonic)
 
 8. JSON-RPC Framework
 
