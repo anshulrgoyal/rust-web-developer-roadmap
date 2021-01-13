@@ -101,6 +101,9 @@ Below you can find a chart demonstrating the path you may take and the libraries
     - [r2d2](https://crates.io/crates/r2d2)
     - [lettre](https://crates.io/crates/lettre)
 
+15. Additional Rust Content
+    - [Rust in 30 min](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
+
 ## Wrap Up
 
 If you think the roadmap can be improved, please do open a PR with any updates and submit any issues.
