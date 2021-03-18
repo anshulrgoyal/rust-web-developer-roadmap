@@ -87,6 +87,7 @@ Below you can find a chart demonstrating the path you may take and the libraries
 12. Task Scheduling
 
     - [clokwerk](https://crates.io/crates/clokwerk)
+    - [delay-timer](https://crates.io/crates/delay_timer)
 
 13. Frontend Development
 
