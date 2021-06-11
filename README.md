@@ -104,6 +104,7 @@ Below you can find a chart demonstrating the path you may take and the libraries
 
 15. Additional Rust Content
     - [Rust in 30 min](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
+    - [Rust Web Development](https://www.manning.com/books/rust-web-development)
 
 ## Wrap Up
 
