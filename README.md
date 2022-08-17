@@ -1,6 +1,6 @@
 # Rust Web Developer Roadmap
 
-> Roadmap to becoming a [Rust](https://www.rust-lang.org/) web developer in 2021:
+> Roadmap to becoming a [Rust](https://www.rust-lang.org/) web developer in 2022:
 
 Below you can find a chart demonstrating the path you may take and the libraries you may require to become a Rust Web Developer. This chart is made with inspiration from [Golang Developer Roadmap](https://github.com/Alikhll/golang-developer-roadmap/).
 
@@ -40,7 +40,7 @@ Below you can find a chart demonstrating the path you may take and the libraries
    - [nickel](https://crates.io/crates/nickel)
    - [rocket](https://crates.io/crates/rocket)
    - [tide](https://crates.io/crates/tide)
-   - [tower-web](https://crates.io/crates/tower-web)
+   - [axum](https://crates.io/crates/axum)
    - [warp](https://crates.io/crates/warp)
 
 4. ORM
@@ -97,6 +97,7 @@ Below you can find a chart demonstrating the path you may take and the libraries
     - [wasm-bindgen](https://crates.io/crates/wasm-bindgen)
     - [js-sys](https://crates.io/crates/js-sys)
     - [web-sys](https://crates.io/crates/web-sys)
+    - [gloo](https://crates.io/crates/gloo)
 
 14. Good to know crates
     - [validator](https://crates.io/crates/validator)
