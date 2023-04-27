@@ -7,6 +7,7 @@
 在下边有一个路线图，如果你想要成为一名 Rust 语言的开发者的话，你可以沿着这张图里面的路径去学习，里面记录了一些你可能也想学习的库。此图受到 Golang Deveoper Roadmap 的启发。
 
 [English](../../README.md)
+[Bahasa Indonesia](../id-ID/README-id-ID.md)
 
 ## **免责声明**
 
