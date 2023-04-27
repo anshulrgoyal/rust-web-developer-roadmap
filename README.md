@@ -5,6 +5,7 @@
 Below you can find a chart demonstrating the path you may take and the libraries you may require to become a Rust Web Developer. This chart is made with inspiration from [Golang Developer Roadmap](https://github.com/Alikhll/golang-developer-roadmap/).
 
 [简体中文版](./i18n/zh-CN/README-zh-CN.md)
+[Bahasa Indonesia](./i18n/id-ID/README-id-ID.md)
 
 ## Disclaimer
 
